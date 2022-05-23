@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#slogan{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:large;
+}
+
+.back-e {
+    background-color: rgba(43, 42, 42, 0.2);
+}
+
+.fundadores{
+    width: 150px;
+    height: auto;
+}
+
+.whatsapp {
+    position: fixed;
+    bottom: 5px;
+    right: 0;
+    width: 120px;
+    z-index: 2;
+}
+
+.whatsapp img {
+    width: 80%;
+}
