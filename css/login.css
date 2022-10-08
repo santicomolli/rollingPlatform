@@ -1,3 +1,16 @@
 body{
     background: linear-gradient(to right, #82878E 0%, #6D7172 50%, #505151 100%);
 }
+
+.loginModal{
+    margin-top:230px;
+}
+
+.registroModal{
+    margin-top:150px;
+}
+
+.sinNada{
+    text-decoration: none;
+    color: black;
+}
